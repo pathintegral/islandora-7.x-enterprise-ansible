@@ -473,7 +473,7 @@
     - drush -y -u 1 en simpletest
     - drush dl devel imagemagick ctools jquery_update pathauto xmlsitemap views variable token libraries datepicker date
     - drush -y en devel imagemagick ctools jquery_update pathauto xmlsitemap views variable token libraries datepicker_views
-    - drush dl coder
+    - drush dl coder-7.x-2.6
     - drush -y en coder
     ### milestone 5 - Installing the Islandora Essential Modules
     - drush -y -u 1 en islandora
